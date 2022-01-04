@@ -1,1 +1,2 @@
-"Mitchell Hein" 
+Mitchell Hein
+heinm@oregonstate.edu
